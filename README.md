@@ -20,29 +20,29 @@ Sart the following workflow:
 
 ## DATA STRUCTURE (INPUT)
 
-── PATH-TO-YOUR-IMG-DATA
-   └── tif/jpg/png
-── PATH-TO-YOUR-PAGE-DATA
+── PATH-TO-YOUR-IMG-DATA<br>
+   └── tif/jpg/png<br>
+── PATH-TO-YOUR-PAGE-DATA<br>
    └── xml
 
 ## DATA STRUCTURE (OUTPUT)
 
-── IMG
-   └── tif/jpg/png
-── PAGE
-   └── xml
-── WOLF
-   └── png
-   └── xml
-── DENOISE
-   └── png
-   └── xml
-── LINES
-   └── gt.txt
-   └── bin.png
-   └── json
-   └── xslx
-mets.xml
+── IMG<br>
+   └── tif/jpg/png<br>
+── PAGE<br>
+   └── xml<br>
+── WOLF<br>
+   └── png<br>
+   └── xml<br>
+── DENOISE<br>
+   └── png<br>
+   └── xml<br>
+── LINES<br>
+   └── gt.txt<br>
+   └── bin.png<br>
+   └── json<br>
+   └── xslx<br>
+mets.xml<br>
 ocrd.log
 
 ## REFERENCES
